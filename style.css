@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(202, 194, 207);
+    display: flex;
+    flex-wrap: wrap;
+}
+body main div img{
+    width: 200px;
+    height: auto;
+    border-radius: 3px;
+    margin: 25px;
+}
+div{
+    width: 250px;
+    height: 400px;
+    background-color: aliceblue;
+    margin: 4%;
+    border-radius: 10PX;
+
+
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p{
+    margin: 20px;
+}
